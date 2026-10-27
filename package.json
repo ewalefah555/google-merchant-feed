@@ -1,0 +1,13 @@
+{
+  "name": "google-merchant-feed",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.13.0",
+    "hono": "^4.6.0"
+  }
+}
